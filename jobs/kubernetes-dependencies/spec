@@ -8,6 +8,7 @@ packages:
 - conntrack
 - ipset
 - nfs
+- kubernetes
 
 properties:
   nfs:
