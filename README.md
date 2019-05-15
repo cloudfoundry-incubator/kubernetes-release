@@ -10,3 +10,5 @@ A [BOSH](http://bosh.io/) release for [Kubernetes](http://kubernetes.io).
 |       0.32.0       	|    master    	|      master     	|     1.14    	|
 |       0.31.0       	|    master    	|      master     	|     1.13    	|
 |       0.25.0       	|    0.25.0    	|      0.25.0     	|     1.12    	|
+
+d
