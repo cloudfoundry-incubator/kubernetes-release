@@ -1,5 +1,5 @@
 ---
-name: k8s
+name: kubernetes
 
 files:
 - container-images/*
